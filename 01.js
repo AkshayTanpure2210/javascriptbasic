@@ -1,6 +1,6 @@
 "use strict";
 
-//notes which i observe
+//notes which I observed
 
 
 // variables can store some information
